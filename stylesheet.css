@@ -170,3 +170,18 @@ i {
 #phone {
     margin-top: 25px;
 }
+
+.lets h1 {
+    text-align: center;
+    margin-top: 52px;
+    margin-bottom: 90px;
+    color: gray;
+}
+
+.me {
+    color: #0fb494;
+}
+
+.fun {
+    background-image: url('http://res.cloudinary.com/dsvtbqkhv/image/upload/v1454286914/funfacts_ilj6p2.jpg');
+}
