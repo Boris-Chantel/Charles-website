@@ -1,0 +1,172 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+.pacifico {
+    font-family: Pacifico;
+}
+
+.hero {
+    
+    height: 700px;
+    background-image: url("http://res.cloudinary.com/dsvtbqkhv/image/upload/v1454286923/header_G_rm3xj7.png");
+    background-size: cover;
+}
+
+.hero ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+    
+}
+
+.hero li {
+    color: white;
+    display: inline-block;
+    padding: 0px 30px 0px 30px;
+    float: left;
+}
+
+.hero h1 {
+    font-family:OpenSans;
+    text-align:center;
+    color: white;
+    font-size: 4em;
+}
+
+.bold {
+    font-weight: lighter;
+}
+
+.hero h2 {
+    color:white;
+    text-align: center;
+    font-family:OpenSans;
+    font-weight: 100;
+    font-size: 3em;
+}
+
+.hero h6 {
+    margin-top: 20px;
+    color: white;
+    text-align:center;
+    font-family:OpenSans;
+    font-weight:300;
+    font-size:1em;
+}
+
+.works {
+    padding-bottom: 30px;
+    clear: both
+    
+}
+
+.works .wrapper {
+    text-align: center;
+}
+
+.works h1 {
+    color: #0fb494;
+    margin-top: 61px;
+}
+
+.gallery {
+    height: 763px;
+    background-color:#f2f2f2;
+}
+
+.gallery ul {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.gallery li {
+    text-decoration: none;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.gallery li:hover {
+    background-color: #0bb48d;
+    color: white;
+}
+.gallery a {
+    text-decoration: none;
+    color: black;
+}
+
+.portfolio {
+    clear: both;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    
+}
+
+.portfolio .container {
+    margin:0;
+    width: 100%;
+}
+
+.portfolio div {
+    margin: 0;
+    padding:0;
+}
+
+.portfolio img {
+    margin: 0;
+    padding: 0;
+}
+
+.thumbnail {
+    border: none;
+}
+
+img {
+    margin: 0;
+    padding:0;
+    border: none;
+    width: 100%;
+    
+}
+
+.talents {
+    background-color: hsl(120, 100%, 97%);
+}
+
+.talents .container {
+    padding: 0;
+    margin: 0 auto;
+    padding-top:50px;
+    padding-bottom:100px;
+    
+}
+
+.talents div {
+    margin: 0 auto;
+    padding: 0;
+  
+}
+
+
+
+#main {
+    text-align: center;
+    color: #0fb494;
+    margin-bottom: 50px;
+}
+
+i {
+    margin-top: 30px;
+    text-align: right;
+    color: #0fb494;
+}
+
+#phone {
+    margin-top: 25px;
+}
