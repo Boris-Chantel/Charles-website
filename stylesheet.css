@@ -178,10 +178,22 @@ i {
     color: gray;
 }
 
+.lets {
+    padding-bottom: 146px;
+}
+
 .me {
     color: #0fb494;
 }
 
 .fun {
-    background-image: url('http://res.cloudinary.com/dsvtbqkhv/image/upload/v1454286914/funfacts_ilj6p2.jpg');
+    clear: both;
+    background-image: url("http://res.cloudinary.com/dsvtbqkhv/image/upload/v1454286914/funfacts_ilj6p2.jpg");
+    repeat: none;
+    background-size: cover;
+    
+}
+
+.fun h1 {
+    padding-bottom: 200px;
 }
