@@ -9,7 +9,7 @@
 
 .hero {
     
-    height: 700px;
+    height: 100vh;
     background-image: url("http://res.cloudinary.com/dsvtbqkhv/image/upload/v1454286923/header_G_rm3xj7.png");
     background-size: cover;
 }
@@ -69,6 +69,7 @@
 }
 
 .works h1 {
+    font-size: 28px;
     color: #0fb494;
     margin-top: 61px;
 }
@@ -156,6 +157,7 @@ img {
 
 
 #main {
+    font-size: 28px;
     text-align: center;
     color: #0fb494;
     margin-bottom: 50px;
@@ -172,6 +174,10 @@ i {
 }
 
 .lets h1 {
+<<<<<<< HEAD
+=======
+    font-size: 28px;
+>>>>>>> master
     text-align: center;
     margin-top: 52px;
     margin-bottom: 90px;
@@ -194,6 +200,167 @@ i {
     
 }
 
+<<<<<<< HEAD
 .fun h1 {
     padding-bottom: 200px;
+=======
+.fun .container {
+    padding-bottom: 158px;
+}
+
+#facts {
+    font-size: 28px;
+    margin-top: 98px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: #0fb494;
+}
+
+
+
+#icon1 {
+    display: inline-block;
+    
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  text-align: center;;
+}
+
+.fun i {
+    color: white;
+  font-size: 8em;
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#number1 {
+    text-align: center;
+    color: #fff;
+}
+
+#hours{
+    color: #fff;
+    text-align: center;
+    font-size: 9px;
+    padding-bottom: 20px;
+}
+
+#discuss {
+    text-align: center;
+    font-size: 28px;
+    color: #0fb494;
+    margin-top: 153px;
+    margin-bottom: 76px;
+}
+
+#para {
+    text-align: center;
+    margin-bottom: 93px;
+}
+
+#at {
+    margin-right: 50px;
+    padding: 0;
+}
+
+#cras {
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+
+
+.say {
+    padding-left: 0;
+}
+
+#hello {
+    text-align: left;
+    margin: 0;
+    
+}
+
+#form {
+    padding: 0;
+    margin-top: 50px;
+}
+
+textarea {
+	resize: none;
+}
+.form-label {
+	font-size: 12px;
+	color: #f2f2f2;
+	margin: 0;
+	display: block;
+	opacity: 1;
+	-webkit-transition: .333s ease top, .333s ease opacity;
+	transition: .333s ease top, .333s ease opacity;
+}
+.form-control {
+	border-radius: 0;
+	border-color: #ccc;
+   	border-width: 0 0 2px 0;
+   	border-style: none none solid none;
+   	box-shadow: none;
+}
+.form-control:focus {
+	box-shadow: none;
+	border-color: #5e9bfc;
+}
+.js-hide-label {
+	opacity: 0; 	
+}
+.js-unhighlight-label {
+	color: #999 
+}
+.btn-start-order {
+	background: 0 0 #ffffff;
+    border: 0px solid #2f323a;
+
+    color: #2f323a;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: inherit;
+    margin: 30px 0;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    transition: all 0.25s ease 0s;
+}
+.btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
+	border-color: #5e9bfc;
+	color: #5e9bfc;
+}
+
+.map {
+    height: 50vh;
+    background-image: url("http://res.cloudinary.com/dsvtbqkhv/image/upload/v1455504208/map_e8jimm.jpg");
+    background-size: cover;
+}
+
+.bar {
+    height: 5px;
+    background-color: black;
+}
+
+.footer {
+    background-color:#0fb494;
+}
+
+.footer .container {
+    padding-top: 114px;
+    padding-bottom: 114px;
+}
+
+.footer div {
+    padding: 0;
+    color: #fff;
+}
+
+.footer h6 {
+    margin-top: 0;
+>>>>>>> master
 }
