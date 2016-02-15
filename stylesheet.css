@@ -174,10 +174,7 @@ i {
 }
 
 .lets h1 {
-<<<<<<< HEAD
-=======
     font-size: 28px;
->>>>>>> master
     text-align: center;
     margin-top: 52px;
     margin-bottom: 90px;
@@ -200,10 +197,6 @@ i {
     
 }
 
-<<<<<<< HEAD
-.fun h1 {
-    padding-bottom: 200px;
-=======
 .fun .container {
     padding-bottom: 158px;
 }
@@ -362,5 +355,4 @@ textarea {
 
 .footer h6 {
     margin-top: 0;
->>>>>>> master
 }
